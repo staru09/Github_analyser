@@ -105,7 +105,7 @@ To keep the process automated, you can set up a cron job for periodic execution 
 - The repository is structured to support additional scripts for parsing or summarizing different formats.  
 - Once the database is created using these scripts, it can be utilized to generate a knowledge base that helps address issues related to a specific repository. For more information, refer to [this resource](https://github.com/staru09/Gradio_bot).
 - Knowledge bases for certain repositories, along with the final CSV files containing summaries and Q&A pairs, can be accessed [here](https://docs.google.com/spreadsheets/d/1_hRiQkVr9Dl2BLyjY87XjfReXUow0c9vKNA4nw_s34g/edit?usp=sharing).
-- An example of creating a knowledge base for Gradio can be found [here](https://github.com/staru09/Gradio_bot)
+- An example of creating a knowledge base for Gradio can be found in the examples folder here.
 ---  
 
 ## Additional Resources  
